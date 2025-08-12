@@ -4,7 +4,7 @@ def menu():
     continuar = True
 # Bucle principal del menu.
     while continuar:
-        print("=== Bienvenido a los ejercicios de la semana 2 ===")
+        print("=== Bienvenido a los ejercicios de la semana 3 ===")
         print("Elija un ejercicio a resolver:")
         print("1. Ejercicio 1")
         print("2. Ejercicio 2")
