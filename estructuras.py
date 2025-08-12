@@ -63,7 +63,7 @@ def ejercicio2():
 # Ahora vamos a definir nuestro tercer ejercicio como una funcion.
 def ejercicio3():
     print ("=== Ejercicio 3 ===")
-    print("Escriba un programa que solicite al usuario un numero y que imprima la tabla de nultiplicar de ese numero.")
+    print("Escriba un programa que solicite al usuario un numero y que imprima la tabla de multiplicar de ese numero.")
     # Solicitar al usuario un numero.
     numero = int(input("Ingrese un numero: "))
     # Imprimir la tabla de multiplicar del numero ingresado.
@@ -93,3 +93,5 @@ def ejercicio4():
     print(f"La suma de los numeros ingresados es: {suma}")
     # Llegamos al final del ejercicio 4.
     print("=== Fin del ejercicio 4 ===")
+
+menu()  # Llamamos a la funcion menu para iniciar el programa.
